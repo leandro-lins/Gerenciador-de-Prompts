@@ -1,1 +1,1 @@
-🌍 Veja o projeto funcionando: https://leandro-lins.github.io/gerenciador-de-prompts-nlw/
+🌍 Veja o projeto funcionando: https://leandro-lins.github.io/nlw-prompts-manager/
