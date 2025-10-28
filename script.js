@@ -1,7 +1,7 @@
-// Chave para identificar os dados salvos pela nossa aplicação no navegador.
+// Chave para identificar os dados salvos
 const STORAGE_KEY = "prompts_storage"
 
-// Estado carregar os prompts salvos e exibir.
+// Estado carregar os prompts salvos e exibir
 const state = {
   prompts: [],
   selectedId: null,
@@ -218,3 +218,4 @@ function init() {
 
 // Executa a inicialização ao carregar o script
 init()
+
